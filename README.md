@@ -16,6 +16,8 @@ nodemon.json ->
 ```
 Příhlásím se na mongodb.com<br>
 Vložím z <a href="https://cloud.mongodb.com/v2/61a5e823aeeee4739fac3010#security/database/users">MongoDB</a>
+
+Do index.js :
 ```
 mongodb+srv://rubes999:<password>@cluster0.jddan.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ```
