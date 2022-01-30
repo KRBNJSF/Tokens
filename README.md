@@ -1,5 +1,11 @@
 # Tokens
 
+JSON
+---
+JavaScript Object Notation: je způsob zápisu dat nezávislý na počítačové platformě, určený pro přenos dat, která mohou být organizována v polích nebo agregována v objektech. Vstupem je libovolná datová struktura, výstupem je vždy řetězec. 
+
+Tokeny v praxi
+---
 npm i<br>
 npm i jsonwebtoken bcryptjs<br>
 npm init -y
