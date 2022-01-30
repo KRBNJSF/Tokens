@@ -1,6 +1,7 @@
 # Tokens
 
-npm i
+npm i<br>
+npm i jsonwebtoken bcryptjs<br>
 npm init -y
 
 Vytvořím nodemon.json k úschově přihlašovacích údajů k databázi
